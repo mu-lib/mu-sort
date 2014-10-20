@@ -1,0 +1,30 @@
+{
+    "name": "mu-sort",
+    "version": "0.0.0",
+    "homepage": "https://github.com/mu-lib/mu-sort",
+    "authors": [
+        "µLib Team (https://github.com/mu-lib)"
+    ],
+    "description": "Sort an array",
+    "main": "./unique.js",
+    "moduleType": [
+        "amd",
+        "node"
+    ],
+    "keywords": [
+        "sort",
+        "array",
+        "in-place",
+        "comparator",
+        "merge-sort",
+        "fast"
+    ],
+    "license": "MIT",
+    "ignore": [
+        "**/.*",
+        "node_modules",
+        "bower_components",
+        "test",
+        "tests"
+    ]
+}
