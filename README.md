@@ -2,10 +2,10 @@
 
 Sort an array ([Merge Sort](http://en.wikipedia.org/wiki/Merge_sort)).
 
-`sort(arr, comparator)`
+`sort(arr, order)`
 
 0. `arr {Array}` - The source array.
-0. `comparator {Function}` - A custom comparator function. Optional. If a function is specified, it is called with 2
+0. `order {Function}` - A custom order function. Optional. If a function is specified, it is called with 2
    elements from the array and should return `0` if the are equal, a positive number if `a` is bigger and a negative
    number if `b` is bigger.
 
@@ -37,7 +37,7 @@ var arr = [1, 2, 1, 2, 3];
 console.log(sort(arr)); // [1, 1, 2, 2, 3]
 ```
 
-**With a custom comparator:**
+**With a custom order:**
 
 ```Javascript
 var arr = ['world', 'hi', 'hello'];
