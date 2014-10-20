@@ -1,27 +1,34 @@
 {
-    "name": "mu-sort",
-    "version": "0.0.0",
-    "description": "Sort an array",
-    "main": "sort.js",
-    "scripts": {
-        "test": "make test"
-    },
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/mu-lib/mu-sort.git"
-    },
-    "keywords": [
-        "sort",
-        "array",
-        "in-place",
-        "comparator",
-        "merge-sort",
-        "fast"
-    ],
-    "author": "µLib Team (https://github.com/mu-lib)",
-    "license": "MIT",
-    "bugs": {
-        "url": "https://github.com/mu-lib/mu-sort/issues"
-    },
-    "homepage": "https://github.com/mu-lib/mu-sort"
+  "name": "mu-sort",
+  "version": "0.0.0",
+  "description": "Sort an array",
+  "main": "sort.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mu-lib/mu-sort.git"
+  },
+  "keywords": [
+    "sort",
+    "array",
+    "in-place",
+    "comparator",
+    "merge-sort",
+    "fast"
+  ],
+  "author": "µLib Team (https://github.com/mu-lib)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mu-lib/mu-sort/issues"
+  },
+  "homepage": "https://github.com/mu-lib/mu-sort",
+  "devDependencies": {
+    "coveralls": "^2.11.2",
+    "fume": "0.0.0",
+    "istanbul": "^0.3.2",
+    "mocha": "^1.21.5",
+    "should": "^4.1.0"
+  }
 }
