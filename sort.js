@@ -4,8 +4,8 @@
 
 if (typeof define === 'function' && define.amd) {
 
-    define(['./dist/amd/sort'], function(decree) {
-        return decree;
+    define(['./dist/amd/sort'], function(sort) {
+        return sort;
     });
 
 } else if (typeof exports === 'object') {

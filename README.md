@@ -1,7 +1,7 @@
-[![Version](http://img.shields.io/npm/v/mu-sort.svg)](https://www.npmjs.org/package/mu-sort)
-[![Version](http://img.shields.io/bower/v/mu-sort.svg)](https://github.com/mu-lib/mu-sort)
-[![Build Status](https://api.travis-ci.org/mu-lib/mu-sort.svg?branch=master)](https://travis-ci.org/mu-lib/mu-sort)
-[![Coverage Status](https://img.shields.io/coveralls/mu-lib/mu-sort/master.svg)](https://coveralls.io/r/mu-lib/mu-sort)
+    [![Version](http://img.shields.io/npm/v/mu-sort.svg)](https://www.npmjs.org/package/mu-sort)
+    [![Version](http://img.shields.io/bower/v/mu-sort.svg)](https://github.com/mu-lib/mu-sort)
+    [![Build Status](https://api.travis-ci.org/mu-lib/mu-sort.svg?branch=master)](https://travis-ci.org/mu-lib/mu-sort)
+    [![Coverage Status](https://img.shields.io/coveralls/mu-lib/mu-sort/master.svg)](https://coveralls.io/r/mu-lib/mu-sort)
 
 # mu-sort
 
